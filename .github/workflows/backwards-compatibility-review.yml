@@ -31,6 +31,8 @@ jobs:
           # Enable progress tracking
           track_progress: true
 
+          use_sticky_comment: true
+
           # Your custom review instructions
           prompt: |
             REPO: ${{ github.repository }}
