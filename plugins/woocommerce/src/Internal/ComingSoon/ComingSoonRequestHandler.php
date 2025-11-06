@@ -11,7 +11,7 @@ use Automattic\Jetpack\Constants;
  * Handles the template_include hook to determine whether the current page needs
  * to be replaced with a coming soon screen.
  */
-class ComingSoonRequestHandlerX {
+class Baba {
 
 	/**
 	 * Coming soon helper.
